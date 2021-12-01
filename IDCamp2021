@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>tugas website pribadi</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    
+  </head>
+  
+  <body>
+    
+    <div class="nav-container">
+      <div class="wrapper">
+       <nav>
+        <div class="logo">
+          Mr.
+        </div>
+
+          <ul class="nav-items">
+            <li>
+              <a href="#"> blog </a>
+            </li>
+            <li>
+              <a href="#"> contact </a>
+            </li>
+            <li>
+              <a href="#"> about </a>
+            </li>
+            <li>
+              <a class="nav-btn-container" href="#">
+                <img src="https://img.icons8.com/material-outlined/24/000000/search--v2.png"> </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+
+    <div class="header-container">
+      <div class="wrapper">
+        <header>
+          <div class="hero-content">
+            <h1>Hi, I'm Moerseeda</h2>
+            <p>Pusing mengerjakan tugas kuliah?
+              Saya membuka jasa pengerjaan tugas kuliah.</p>
+            <a href="#">
+              Hubungi Saya 
+            </a>
+          </div>
+
+          <div class="hero-images">
+           <img src="img1.svg" width="300px" >
+          </div>
+        </header>
+
+        <div class="social-icons">
+         <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/23/ffffff/external-instagram-social-media-justicon-lineal-color-justicon.png"/>
+         <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/23/ffffff/external-youtube-social-media-justicon-lineal-color-justicon.png"/>
+        </div>
+      </div>
+    </div>
+
+    <div class="main-container">
+      <nav>
+        <div class="cek-turnitin">
+          Cek Turnitin
+        </div>
+
+        <div class="olah-spss">
+          Olah SPSS
+        </div>
+
+      </nav>
+    </div>
+
+    <div class="footer">
+      <div class="address-text">
+        My Office, <br>
+        Jalan Sungai Rupat, No. 13 <br>
+        Bengkulu<br>
+        38321
+      </div>
+
+      <div class="maps">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31846.900900558438!2d102.30306431750267!3d-3.83965582124011!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e36ba411d5b4b53%3A0x330e0d15f51d4349!2sPagar%20Dewa%2C%20Kec.%20Selebar%2C%20Kota%20Bengkulu%2C%20Bengkulu!5e0!3m2!1sid!2sid!4v1638369031914!5m2!1sid!2sid" width="200" height="100" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      </div>
+    </div>
+  
+
+    <script src="script.js"></script>
+  </body>
+</html>
